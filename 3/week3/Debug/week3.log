@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(293,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(294,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(300,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(301,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(317,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(319,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(323,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(327,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(334,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(336,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(339,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(340,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.h(264,9): warning C4101: 'integral': unreferenced local variable
+D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\MyForm.cpp(7,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  integral_methods.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  week3.vcxproj -> D:\1uno1\diit\year1\prac\WIP\week3_full_00\week3\Debug\week3.exe

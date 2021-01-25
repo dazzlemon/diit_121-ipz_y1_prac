@@ -1,0 +1,3 @@
+﻿  Chebishev_polinom_interpoltion.cpp
+D:\1uno1\diit\year1\prac\Chebishev_polinom_interpoltion\Chebishev_polinom_interpoltion.cpp(44,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Chebishev_polinom_interpoltion.vcxproj -> D:\1uno1\diit\year1\prac\Chebishev_polinom_interpoltion\Debug\Chebishev_polinom_interpoltion.exe

@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+D:\1uno1\diit\year1\prac\WIP\week2_full_00\WEEK2\MyForm.h(1208,49): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+D:\1uno1\diit\year1\prac\WIP\week2_full_00\WEEK2\MyForm.cpp(8,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  approximation.cpp
+D:\1uno1\diit\year1\prac\WIP\week2_full_00\WEEK2\approximation.cpp(36,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\1uno1\diit\year1\prac\WIP\week2_full_00\WEEK2\approximation.cpp(76,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  gauss_zeidel.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WEEK2.vcxproj -> D:\1uno1\diit\year1\prac\WIP\week2_full_00\WEEK2\Debug\WEEK2.exe

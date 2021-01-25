@@ -1,0 +1,9 @@
+﻿  math_functions_x.cpp
+  methods.cpp
+  MyForm.cpp
+D:\1uno1\diit\year1\prac\week1_full\WEEK1\MyForm.h(648,20): warning C4018: '<': signed/unsigned mismatch
+D:\1uno1\diit\year1\prac\week1_full\WEEK1\MyForm.cpp(9,32): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  math_functions_x.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WEEK1.vcxproj -> D:\1uno1\diit\year1\prac\week1_full\WEEK1\Debug\WEEK1.exe

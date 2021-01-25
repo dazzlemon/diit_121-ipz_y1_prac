@@ -1,0 +1,7 @@
+﻿  sparseMatrix.cpp
+D:\1uno1\diit\year1\prac\WIP\week4_full_00\week4v2\sparseMatrix.cpp(17,19): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  week4.vcxproj -> D:\1uno1\diit\year1\prac\WIP\week4_full_00\week4v2\Debug\week4.exe

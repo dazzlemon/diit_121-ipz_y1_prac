@@ -1,0 +1,8 @@
+input nodes like that: <*x*spacing*y*>, e.g.: <0.0001 -17.879>; step between x'es must be constant, if you wish to use chebyshev's approximation
+0.2 7
+1.2 5
+2.2 5
+3.2 7
+4.2 11
+5.2 13
+6.2 9
